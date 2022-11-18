@@ -1,4 +1,4 @@
-# AN EMPIRICAL ANALYSIS OF PHISHING WEBSITE DETECTION FROM URLS USING MACHINE LEARNING TECHNIQUES
+# Phishing website detection
 
 The phishing technique in the context of classification, where phishing websites are considered to involve automatically categorizing websites into a predetermined set of class values based on several features and a class variable. ML-based phishing techniques depend on website features to gather the information that can help classify websites to detect phishing sites. The problem of phishing cannot be eradicated, but it can be reduced by combating it in two ways, by improving targeted anti-phishing practices and techniques and by informing the public about how to detect and identify fraudulent phishing sites. To combat the ever-evolving and complex phishing attacks and tactics, ML anti-phishing techniques are essential.
 
